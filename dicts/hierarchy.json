@@ -1,0 +1,49 @@
+{
+    "Tecnologia": {
+      "Computadores": {
+        "Desktops": ["PCs", "Workstations", "Servidores"],
+        "Portateis": ["Notebooks", "Ultrabooks", "Tablets"]
+      },
+      "Redes": {
+        "Conectividade": ["Wi-Fi", "Ethernet", "Bluetooth"],
+        "Protocolos": {
+          "IPv4": ["TCP", "UDP"],
+          "IPv6": ["ICMPv6", "SCTP"]
+        }
+      },
+      "Linguagens de Programacao": {
+        "Front-end": ["JavaScript", "TypeScript", "HTML", "CSS"],
+        "Back-end": ["Python", "Ruby", "Go", "Java"],
+        "Mobile": ["Swift", "Kotlin", "React Native", "Flutter"]
+      }
+    },
+    "Ciencias": {
+      "Matematica": {
+        "Algebra": ["Equacoes", "Polinomios", "Vetores"],
+        "Geometria": ["Planos", "Solidos", "Curvas"]
+      },
+      "Fisica": {
+        "Mecanica": ["Dinamica", "Estatica", "Cinematica"],
+        "Eletromagnetismo": ["Corrente Eletrica", "Campos Magneticos", "Ondas"]
+      },
+      "Quimica": {
+        "Organica": ["Alcanos", "Alcenos", "Alcinos"],
+        "Inorganica": ["Sais", "Oxidos", "Acidos"]
+      }
+    },
+    "Esportes": {
+      "Esportes de Campo": {
+        "Futebol": ["Copa do Mundo", "Champions League", "Libertadores"],
+        "Rugby": ["Sevens", "Union", "League"]
+      },
+      "Esportes Aquaticos": {
+        "Natacao": ["Estilo Livre", "Costas", "Peito", "Borboleta"],
+        "Polo Aquatico": ["Defesa", "Ataque", "Contra-ataque"]
+      },
+      "Esportes de Combate": {
+        "Boxe": ["Peso Pena", "Peso Pesado", "Peso Leve"],
+        "Artes Marciais": ["Karate", "Jiu-Jitsu", "Taekwondo"]
+      }
+    }
+}
+  
